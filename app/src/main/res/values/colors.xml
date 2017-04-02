@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- "Green" palette https://material.io/guidelines/style/color.html -->
+    <color name="colorScoreButton">#A5D6A7</color>
+
+    <!-- "Red" palette -->
+    <color name="colorSpecialButton">#EF9A9A</color>
+</resources>
