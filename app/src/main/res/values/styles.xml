@@ -8,4 +8,25 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="shotTitle">
+        <item name="android:textColor">@color/colorNumberNormal</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="standardButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/colorScoreButton</item>
+    </style>
+
+
+    <style name="specialButton" parent="standardButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/colorSpecialButton</item>
+    </style>
 </resources>
