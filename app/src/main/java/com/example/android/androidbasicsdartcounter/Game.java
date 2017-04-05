@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Game {
 
-    private final int STARTING_SCORE = 101;
+    private final int STARTING_SCORE = 501;
     private final int PLAYERS = 2;
     private final int DARTS_PER_PLAYER = 3;
     final int DARTS_PER_ROUND = PLAYERS * DARTS_PER_PLAYER;
